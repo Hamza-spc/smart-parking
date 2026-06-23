@@ -13,9 +13,9 @@
 SmartParkinGo is a multi-platform parking management solution that connects drivers, parking owners, and security guards. The system streamlines spot discovery, reservations, access control, and analytics in one ecosystem.
 
 ## Screenshots
-<img width="887" height="1774" alt="map-mobile" src="https://github.com/user-attachments/assets/9926e123-2f1b-456d-af46-d72e9cf1d848" />
+<img width="335" height="697" alt="map-mobile" src="https://github.com/user-attachments/assets/9926e123-2f1b-456d-af46-d72e9cf1d848" />
 
-<img width="874" height="1799" alt="parkbot" src="https://github.com/user-attachments/assets/718a380c-652c-4352-92a9-4c884da53645" />
+<img width="335" height="697" alt="parkbot" src="https://github.com/user-attachments/assets/718a380c-652c-4352-92a9-4c884da53645" />
 
 <img width="335" height="697" alt="navigation" src="https://github.com/user-attachments/assets/e2a04529-93b8-4b4d-a25e-fd85f48f3693" />
 
