@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="mobile/assets/images/logo_big.png" alt="SmartParkinGo Logo" width="220" />
+
+<img width="1632" height="463" alt="parkingo_logo" src="https://github.com/user-attachments/assets/9677fb00-88df-4f03-b7e9-86023682fea5" />
+
 
   # SmartParkinGo
 
